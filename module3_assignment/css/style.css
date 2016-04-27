@@ -1,4 +1,25 @@
-body {
-  text-align: center; }
+.navbar-header .navbar-brand {
+  padding-left: 55px; }
+
+.navbar-nav li {
+  background-color: violet; }
+
+.main_content h1 {
+  margin: 30px; }
+
+section {
+  height: 1000px;
+  background-color: lightslategrey;
+  margin-left: 10px;
+  margin-right: 10px; }
+  section h3 {
+    text-align: center;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px; }
+  section p {
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px; }
 
 /*# sourceMappingURL=style.css.map */
